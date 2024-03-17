@@ -1,0 +1,10 @@
+.Header {
+  justify-content: space-between;
+  width: 330px;
+  margin: 0 auto;
+  /* height: 30px; */
+}
+
+.Header img {
+  height: 30px;
+}
